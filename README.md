@@ -1,16 +1,23 @@
-## Hi there 👋
+# Joshua Gleason
 
-<!--
-**JoshuaAGleason/JoshuaAGleason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Support & Systems Technician
 
-Here are some ideas to get you started:
+Technology-focused professional with hands-on experience in:
+- IT Support & Troubleshooting
+- Active Directory & User Management
+- Networking & System Configuration
+- Virtualization (VMware)
+- SaaS Platforms & Ticketing Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Projects
+- Active Directory Lab
+- VMware Security Lab
+- Network Troubleshooting
+
+## Currently Working On
+- CompTIA A+ Certification
+- Expanding home lab environments
+
+## Links
+Portfolio: https://joshuagleason.net  
+LinkedIn: https://linkedin.com/in/joshuaagleason
